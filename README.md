@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, I'm Selva Gurunathan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
@@ -15,11 +15,21 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer who believes great software solves real problems elegantly. Currently, I architect interactive frontends with **Vue.js** and **Nuxt.js**, while ensuring robust backend operations through **Laravel** and **WordPress**. My daily practice revolves around writing clean, maintainable code and optimizing system performance across every project I touch.
+Currently working as a **Junior Software Developer**, specializing in building and maintaining robust web applications.
 
-Beyond immediate deliverables, I'm deepening my expertise in backend architecture using **Node.js** and **Express**, exploring system design principles that scale, and continuously observing modern web patterns to stay ahead of the curve.
+**What I Do Day-to-Day:**
+- 🎨 Develop interactive frontends using **Vue.js** and **Nuxt.js**
+- ⚙️ Handle full-stack development with **Laravel** for backend operations and service maintenance
+- 🔧 Manage **WordPress** services and contribute to **MERN stack** projects (Node.js, Express, MongoDB)
+- 📐 Ensure clean code, efficient system performance, and scalable architecture across all projects
 
-Always happy to connect with fellow developers to discuss web architecture and share technical insights.
+**Where I'm Headed:**
+- 🧠 Deepening expertise in backend architecture with **Node.js** and **Express**
+- 🏗️ Exploring system design principles for long‑term, scalable solutions
+- 👀 Constantly observing modern web architectures to stay ahead of industry standards
+
+Always happy to connect with fellow developers to discuss web architecture and share technical insights.  
+Let's connect!
 
 <br />
 
@@ -111,12 +121,38 @@ Always happy to connect with fellow developers to discuss web architecture and s
 ### 📌 Featured Projects
 
 <div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| **[Personal Portfolio & Showcase](https://selva-briefview.vercel.app)** | A clean, scalable digital hub featuring 9 MERN stack projects with live demos, resume distribution, certificate verification, and email feedback. | `Next.js` `TypeScript` `CSS` |
-| **[Elegance E-Commerce Platform](https://elegance-smp.vercel.app/)** | A simulated real-world e‑commerce experience demonstrating intuitive product browsing, dynamic collections, and a smooth checkout flow. | `React.js` `Context API` `CSS Modules` |
-
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔷 Personal Portfolio & Showcase</h3>
+        <p align="center">
+          <a href="https://selva-briefview.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-%232F80ED?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </p>
+        <p>A clean, scalable digital hub featuring 9 MERN stack projects with live demos, resume distribution, certificate verification, and integrated email feedback.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🔶 Elegance E‑Commerce</h3>
+        <p align="center">
+          <a href="https://elegance-smp.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-%232F80ED?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Context_API-0088CC?style=flat-square&logo=react&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=white" />
+        </p>
+        <p>A simulated real‑world e‑commerce experience demonstrating intuitive product browsing, dynamic collection management, and a smooth checkout flow.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
